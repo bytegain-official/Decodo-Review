@@ -10,8 +10,6 @@ Ideal for web scraping, social media management, and secure browsing, Decodo cat
 
 ![image](https://github.com/user-attachments/assets/4628a0fa-4bc0-4a38-b47c-9f545d393849)
 
-**Founded**: Not specified  
-**Country**: Not specified  
 **Proxy Networks**: Residential, Static Residential (ISP), Mobile, Datacenter  
 **Scrapers**: eCommerce, Web, SERP, Social Media Scraping APIs  
 **Starting Price**: $0.026/IP (Datacenter), $0.35/IP (Static Residential), $1.50/GB (Residential), $4.50/GB (Mobile), $1.60/1K requests (Site Unblocker)  
